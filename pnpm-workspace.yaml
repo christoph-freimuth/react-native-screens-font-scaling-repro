@@ -1,0 +1,3 @@
+minimumReleaseAgeExclude:
+  - expo@58.0.25
+nodeLinker: hoisted
